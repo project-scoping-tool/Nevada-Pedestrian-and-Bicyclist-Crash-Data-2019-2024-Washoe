@@ -1,0 +1,23 @@
+{
+  "name": "crash-density",
+  "label": "Crash Density",
+  "type": "widget",
+  "version": "1.19.0",
+  "exbVersion": "1.19.0",
+  "author": "Metehan Zorluoglu",
+  "description": "Calculates crash counts, selected area, and crash density for a user-drawn polygon.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": "jimu-arcgis",
+  "properties": {
+    "hasEmbeddedLayout": false
+  },
+  "useMapWidget": true,
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 350,
+    "height": 500
+  }
+}
